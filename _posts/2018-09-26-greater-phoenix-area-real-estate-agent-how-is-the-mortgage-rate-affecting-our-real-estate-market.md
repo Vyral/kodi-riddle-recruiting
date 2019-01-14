@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/09/greater-phoenix-area-r
 {% include youtube.html %}
 The average mortgage rate is at a seven-year high. Is this what’s behind the shift we’re seeing in the market?
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 The 30-year fixed mortgage rate currently stands at around 4.77%. That's near a seven-year high, and almost 1% higher than just a year ago. This is the result of a steady rise starting last September and ending this May.
 

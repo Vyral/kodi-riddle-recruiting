@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/10/greater-phoenix-area-r
 {% include youtube.html %}
 Why do I make these videos every two weeks? Here’s my explanation.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 Why do I send these videos out to you each month? The reason is twofold.
 

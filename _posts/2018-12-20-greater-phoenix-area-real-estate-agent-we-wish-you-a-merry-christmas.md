@@ -21,9 +21,11 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/12/greater-phoenix-area-r
 {% include youtube.html %}
 It truly brings us joy to help you make your real estate dreams a reality. Thank you for working with us. We wouldn’t be where we are today without your help.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
-We hope you and your family have a great holiday. May the Christmas season fill your home with joy. It truly brings us joy to help you make your real estate dreams a reality. Thank you for working with us. We wouldn’t be where we are today without your help. As always, if you have any questions, please don’t hesitate to reach out to us. We’re here to help you in any way we can. Have a fantastic Christmas and we’ll see you in the new year! To hear my full message, watch this short video. 
+We hope you and your family have a great holiday. May the Christmas season fill your home with joy. It truly brings us joy to help you make your real estate dreams a reality. Thank you for working with us. We wouldn’t be where we are today without your help. As always, if you have any questions, please don’t hesitate to reach out to us. We’re here to help you in any way we can. Have a fantastic Christmas and we’ll see you in the new year! To hear my full message, watch this short video.
 
 {% include pullquote.html %}

@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2017/10/greater-phoenix-area-r
 {% include youtube.html %}
 Being protected in today’s digital age is incredibly important. Today, I want to go over some of the ways you can prevent a particularly insidious scam which often targets buyers in real estate: wire fraud.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 Today I would like to bring you some information about a particularly insidious scam. I’m talking about wire fraud, and it particularly pertains to the environment of buying and selling a home.
 

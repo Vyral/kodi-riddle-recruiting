@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2017/05/greater-phoenix-area-r
 {% include youtube.html %}
 The biggest concern for many people when it comes to buying a home is coming up with the cash for a down payment. If you're in this camp, consider these options.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 If you're looking into buying a home in the Phoenix area, the down payment tends to be the biggest obstacle.
 

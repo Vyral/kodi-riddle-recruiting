@@ -5,7 +5,7 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Kodi+Riddle/Greater+Phoenix+A
 pullquote: THIS IS CERTAINLY GOOD NEWS IF YOU’RE LOOKING TO BUY A HOME.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Is Greater Phoenix Entering a Buyers Market?
@@ -22,8 +22,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/09/greater-phoenix-area-r
 {% include youtube.html %}
 After being in a seller’s market for quite some time now, it looks like a shift is on the horizon. Here’s what you can expect.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 After several years of continuous price gains, the real estate market seems to be reaching its price cap. In June, the last month for which we have complete numbers, 14% of all listings saw a price cut. That's up from a low of 11.7% at the end of 2016.
 

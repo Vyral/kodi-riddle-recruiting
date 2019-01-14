@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2017/03/what-happens-if-you-ch
 {% include youtube.html %}
 Today I want to go over what your options are as a buyer and as a seller if you change your mind after signing a purchase agreement.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 What can you do if you change your mind after you’ve signed a purchase agreement on a home?
 

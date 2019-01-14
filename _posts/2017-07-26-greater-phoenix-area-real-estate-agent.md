@@ -21,9 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2017/07/greater-phoenix-area-r
 {% include youtube.html %}
 The Fed’s recent rate hike shouldn’t have any significant impact on our Phoenix market. In fact, it might actually stimulate it.
 
-
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 On June 14th, the Federal Reserve increased its federal funds interest rate by 0.25%. They’re also widely expected to raise rates once or twice more over the course of 2017. What does this mean for the real estate market?
 

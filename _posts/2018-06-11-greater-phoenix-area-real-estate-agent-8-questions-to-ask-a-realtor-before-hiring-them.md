@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/06/greater-phoenix-area-r
 {% include youtube.html %}
 As a home seller, there are eight key questions you should ask a Realtor before hiring them.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 If you’re selling your home and you’re interviewing a Realtor to represent you, here are eight questions you need to ask them before hiring them:
 

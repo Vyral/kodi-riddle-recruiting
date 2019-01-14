@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2017/09/greater-phoenix-area-r
 {% include youtube.html %}
 Why should you hire a real estate agent to buy a new construction home? There are many reasons, but the main one is that the builder's agent will not protect your best interests.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 If you are interested in buying a new construction home, should you work with a real estate agent?
 

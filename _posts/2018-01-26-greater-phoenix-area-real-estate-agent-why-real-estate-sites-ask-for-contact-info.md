@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/01/greater-phoenix-area-r
 {% include youtube.html %}
 You are searching for homes on a Realtor’s website when a box pops up asking for your contact information. What happens after you enter it?
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 When you search for real estate information, you will come across many websites that ask you for your contact information.
 

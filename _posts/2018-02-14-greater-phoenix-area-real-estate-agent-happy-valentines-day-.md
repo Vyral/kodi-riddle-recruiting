@@ -21,8 +21,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2018/02/greater-phoenix-area-r
 {% include youtube.html %}
 You all have made my Valentine’s Day! We recently sent out a small token of appreciation, and the outpouring of love and thanks in return has been incredible.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 You should have all received your Valentine’s Day card from Riddle Realty, along with your delicious brownies.
 

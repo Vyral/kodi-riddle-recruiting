@@ -22,8 +22,10 @@ blogger_orig_url: https://kodiriddle.blogspot.com/2017/11/greater-phoenix-area-r
 It’s almost Thanksgiving, and we are thankful for you! As a token of our appreciation,
 we’re giving away pumpkin or apple pies for your Thanksgiving feast.
 
-Selling your Greater Phoenix Home? Get a free home value report
-Buying a Greater Phoenix Home? Search all homes for sale
+<div class="post-cta">
+Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
+Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
+</div>
 
 You have made an impact on Riddle Realty. You have made an impact on the people in our company as well, and for that we are immensely grateful.
 

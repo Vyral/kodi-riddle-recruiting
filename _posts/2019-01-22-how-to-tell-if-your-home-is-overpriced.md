@@ -24,7 +24,6 @@ Today I’m going to cut to the chase and answer a great question that came from
 **In order to answer this question, I want you to assume two things first:**
 
 1. Assume that the seller has done as much as they’re going to do to improve the condition of the property.
-
 2. Assume that the Realtor with whom the seller is working with is in the top 1% and that they have a huge marketing budget and plenty of experience.
 
 {% include pullquote.html %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Tell if Your Home Is Overpriced
-date: 2019-01-22 15:28:46
+date: 2019-01-22 15:28:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -13,7 +13,7 @@ pullquote: 'If you go 3 weeks without a showing, your home is definitely overpri
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/kodi-riddle--telltale-signs-youtube.jpg
+youtube_alternate_image: /uploads/kodi-riddle--telltale-signs-2-youtube.jpg
 youtube_code: 'https://youtu.be/9IlI4YKP_Nk'
 ---
 
@@ -28,7 +28,7 @@ Today I’m going to cut to the chase and answer a great question that came from
 
 {% include pullquote.html %}
 
-**If the above is true, the next way to determine if your home is overpriced is by listening to the market.&nbsp;**
+**If the above is true, the next way to determine if your home is overpriced is by listening to the market. **
 
 The best ways to do this is by looking at the number of showings and the days on market. When we put a home on the market, we expect at least five showings in the first 10 days to two weeks. Then, we expect another five showings in the following two weeks. This means that we’re looking at a minimum of 10 showings in the first month. If you don’t have an offer in those first 30 days after 10 or more showings, then you know for a fact that your home is overpriced.
 

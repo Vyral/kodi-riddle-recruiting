@@ -12,7 +12,7 @@ enclosure:
 pullquote: 'If you go 3 weeks without a showing, your home is definitely overpriced.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/kodi-riddle--telltale-signs-2-youtube.jpg
 youtube_code: 'https://youtu.be/9IlI4YKP_Nk'
 ---

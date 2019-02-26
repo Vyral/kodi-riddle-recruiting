@@ -1,5 +1,5 @@
 audit_header: false
-title: Phoenix Real Estate Video Blog with Kodi Riddle
+title: Kodi Riddle Educates
 description: >-
   Our mission at Riddle Realty is to be your best resource for Phoenix real
   estate advice. Whether you are a buyer, seller, or investor, our team of
@@ -7,7 +7,7 @@ description: >-
   you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from The Riddle Realty, your professional
   Phoenix Real Estate Agents.
-show_custom_links: true
+show_custom_links: false
 custom_links:
   - title: Testimonials
     url: /testimonials/
@@ -50,27 +50,21 @@ client:
   phone2_type:
   email: Kodi@RiddleRealty.com
   url: 'https://www.thekodiriddleteam.com'
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819
-  second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.greaterphoenixarearealestate.com/'
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: What’s Your Phoenix Home Worth?
-    CTA_text: >-
-      Are you thinking of selling your home or interested in learning about home
-      prices in your neighborhood? We can help you.
-    CTA_link_text: Free Home Value Report
-    CTA_url: >-
-      http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: Looking for a Phoenix Home?
-    CTA_text2: Search the entire MLS for your Phoenix home.
-    CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.greaterphoenixarearealestate.com/'
+    CTA_title: "Looking to Build Your Real Estate Career?"
+    CTA_text: "Let's talk about how Riddle Realty can take your business to new heights."
+    CTA_link_text: "Free Strategy Session"
+    CTA_url: /contact/
+
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Join Our Team"
+#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
+#     CTA_link_text2: "Career Info"
+#     CTA_url2: /
+
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -97,7 +91,7 @@ socials:
   podcast_url: >-
     https://itunes.apple.com/us/podcast/greater-scottsdale-area-real/id1071467488?mt=2
 podcast:
-  title: Phoenix Real Estate Podcast with Kodi Riddle
+  title: Kodi Riddle Educates
   categories:
     - Education
   image: /img/podcast.jpg
@@ -120,7 +114,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: Phoenix Real Estate Video Blog
+  hero_text: Kodi Riddle Educates
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg

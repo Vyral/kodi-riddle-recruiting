@@ -66,17 +66,16 @@ lender:
   url:
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/SOLDbyKodi'
-  linkedin_url: 'https://www.linkedin.com/in/kodiriddle'
-  youtube_url: 'http://www.youtube.com/channel/UCnqI3B314xWogA6C59nGVPQ'
-  twitter_url: 'https://twitter.com/KodiRiddle'
+  facebook_url: 
+  linkedin_url: 
+  youtube_url: 
+  twitter_url: 
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/Kodi-Riddle/'
-  trulia_url: 'http://www.trulia.com/profile/kodi-k-riddle-broker-cave-creek-az-2702865'
+  zillow_url: 
+  trulia_url: 
   yelp_url:
-  podcast_url: >-
-    https://itunes.apple.com/us/podcast/greater-scottsdale-area-real/id1071467488?mt=2
+  podcast_url: 
 podcast:
   title: Kodi Riddle Educates
   categories:

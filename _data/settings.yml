@@ -30,13 +30,13 @@ client:
   brand: The Riddle Group
   brokerage: eXp Realty
   market: Phoenix
-  address: '4524 E. Rancho Laredo Dr.<br>Cave Creek, AZ 85331'
+  address: '20860 N Tatum, Blvd Suite 317,<br> Phoenix AZ 85050'
   phone: 480-207-2645
   phone_type:
   phone2:
   phone2_type:
   email: Kodi@RiddleRealty.com
-  url: 'https://www.thekodiriddleteam.com'
+  url: 'https://www.theriddlegroup.com'
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg

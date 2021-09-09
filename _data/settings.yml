@@ -7,10 +7,10 @@ description: >-
   you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from The Riddle Realty, your professional
   Phoenix Real Estate Agents.
-show_custom_links: true
+show_custom_links: false
 custom_links:
-  - title: Join Our Team
-    url: /join-our-team/
+  - title:
+    url:
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
@@ -37,6 +37,16 @@ client:
   phone2_type:
   email: Kodi@RiddleRealty.com
   url: 'https://www.theriddlegroup.com'
+
+CTAS:
+  cta1: Join Our Team
+  cta1_link: /join-our-team/
+  cta2: Free Newsletter
+  cta2_link: /subscribe/
+  cta3: Free Strategy Call
+  cta3_link: /strategy-call/
+  cta4: Events
+  cta4_link: /
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg

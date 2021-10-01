@@ -17,6 +17,7 @@ permalink: /strategy-call/
 
 <a><img src="/img/agents.jpg" width="50%"></a>
 <br>
+
 <p>I know how challenging it is to sell real estate.</p>
 
 <p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
@@ -25,8 +26,9 @@ permalink: /strategy-call/
 
 <p>My name is Kodi Riddle and I’ve sold over one thousand homes to date.</p>
   
-<a><img src="/img/team.jpg" width="50%"></a>
-<br>
+<a><img src="/img/team.jpg" width="70%"></a>
+<br><br>
+
 <p>I want to help you sell more homes.</p>
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes. </p>

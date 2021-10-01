@@ -35,21 +35,19 @@ permalink: /strategy-call/
 
 <p>This will help you get the <b>commission consistency</b> and the freedom we all want from our business.</p>
 
+
 <hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote">"We have one meeting a month but when we come to those meetings, they are very informative and we walk away learning something new."</span>
-<span class="author">Marika Clark</span></p>
+<p><span class="quote">"Kodi is an amazing mentor. I've been lucky to have other amazing mentors and Kodi is absolutely one of the great ones. My numbers went from closing 3 or 4 homes to over 13 the first year I was with the team. She is helping me grow to close more each year. Kodi has been completely caring, understanding and has been there for me with love and genuine care and compassion personally every time I needed it and when I didn't know I needed it."</span>
+<span class="author">- Sandy</span></p>
 
-<p><span class="quote">"You always have endless support and someone to go to. James Blackwell is an amazing leader. I owe my entire career to him."</span>
-<span class="author">Samantha Bistany</span></p>
+<p><span class="quote">"Kodi has given me a great education and understanding of my new field of real estate. She has helped me build confidence in my everyday life through business."</span>
+<span class="author">- Logan</span></p>
 
-<p><span class="quote">"James has exceeded my expectations in every way. Being a new agent, I had a lot of questions, needed a lot of support, a lot of service and he's always there."</span>
-<span class="author">Dan Hoffman</span></p>
-
-<p><span class="quote">"James has given me the confidence so that when I work with my clients I have that confidence because I always have a mentor right there behind me."</span>
-<span class="author">Cheryl Byrd</span></p>
+<p><span class="quote">"Kodi has affected my professional life by pushing me to learn and grow. Not only does she provide you with training and coaching, but she also shares love and compassion towards helping employees succeed as individuals. Kodi has affected my personal life by encouraging me to be a stronger more confident woman. Kodi is powerful, confident and has been a role model to me."</span>
+<span class="author">- Amber</span></p>
 </div>
 <hr>
 

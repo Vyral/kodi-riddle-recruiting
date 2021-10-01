@@ -15,7 +15,7 @@ permalink: /strategy-call/
 
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
-(picture of you meeting with an agent) <a><img src="/img/.jpg"></a>
+(picture of you meeting with an agent) <a><img src="/img/agents.jpg" width="40%"></a>
 
 <p>I know how challenging it is to sell real estate.</p>
 
@@ -25,7 +25,7 @@ permalink: /strategy-call/
 
 <p>My name is Kodi Riddle and I’ve sold over one thousand homes to date.</p>
   
-(picture of you and your team) <a><img src="/img/.jpg"></a>
+(picture of you and your team) <a><img src="/img/team.jpg" width="40%"></a>
 
 <p>I want to help you sell more homes.</p>
 
@@ -36,8 +36,6 @@ permalink: /strategy-call/
 <p>Once I understand how you like to do business <b>that’s authentic to you</b> (referral, prospecting, marketing, events, etc.), I’ll help you write a business plan tailored just for you.</p>
 
 <p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
-
-(picture of an agent holding up their business plan excited)  <a><img src="/img/.jpg"></a>
 
 <p>This will help you get the <b>commission consistency</b> and the freedom we all want from our business.</p>
 
@@ -63,7 +61,7 @@ permalink: /strategy-call/
 
 <p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about joining our team.</p>
 
-(picture of your team in a meeting that you’re leading) <a><img src="/img/.jpg"></a>
+(picture of your team in a meeting that you’re leading) <a><img src="/img/runningmeeting.jpg" width="40%"></a>
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
@@ -71,7 +69,7 @@ permalink: /strategy-call/
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-(you smiling sitting at your desk looking at the camera) <a><img src="/img/.jpg"></a>
+(you smiling sitting at your desk looking at the camera) <a><img src="/img/smiling.jpg" width="40%"></a>
 
 <p>I have a <b>questionnaire</b> I would like you to fill out so that when we meet I'm prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 

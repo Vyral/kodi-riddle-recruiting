@@ -15,8 +15,8 @@ permalink: /strategy-call/
 
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
-(picture of you meeting with an agent) <a><img src="/img/agents.jpg" width="40%"></a>
-
+<a><img src="/img/agents.jpg" width="50%"></a>
+<br>
 <p>I know how challenging it is to sell real estate.</p>
 
 <p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
@@ -25,8 +25,8 @@ permalink: /strategy-call/
 
 <p>My name is Kodi Riddle and I’ve sold over one thousand homes to date.</p>
   
-(picture of you and your team) <a><img src="/img/team.jpg" width="40%"></a>
-
+<a><img src="/img/team.jpg" width="50%"></a>
+<br>
 <p>I want to help you sell more homes.</p>
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes. </p>
@@ -61,16 +61,16 @@ permalink: /strategy-call/
 
 <p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about joining our team.</p>
 
-(picture of your team in a meeting that you’re leading) <a><img src="/img/runningmeeting.jpg" width="40%"></a>
-
+<a><img src="/img/runningmeeting.jpg" width="50%"></a>
+<br>
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-(you smiling sitting at your desk looking at the camera) <a><img src="/img/smiling.jpg" width="40%"></a>
-
+<a><img src="/img/smiling.jpg" width="50%"></a>
+<br>
 <p>I have a <b>questionnaire</b> I would like you to fill out so that when we meet I'm prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 
 <p>Look forward to meeting with you. Let’s grow your business.</p>

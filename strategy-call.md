@@ -72,9 +72,8 @@ permalink: /strategy-call/
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<a><img src="/img/smiling.jpg" width="50%"></a>
-<br><br><br>
-
+<a><img src="/img/smiling.jpg" width="70%"></a>
+<br><br>
 
 <p>I have a <b>questionnaire</b> I would like you to fill out so that when we meet I'm prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
 

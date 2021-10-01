@@ -16,7 +16,7 @@ permalink: /strategy-call/
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
 <a><img src="/img/agents.jpg" width="50%"></a>
-<br>
+<br><br>
 
 <p>I know how challenging it is to sell real estate.</p>
 
@@ -64,7 +64,8 @@ permalink: /strategy-call/
 <p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about joining our team.</p>
 
 <a><img src="/img/runningmeeting.jpg" width="50%"></a>
-<br>
+<br><br>
+
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
 <p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>

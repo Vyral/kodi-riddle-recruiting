@@ -39,7 +39,7 @@ permalink: /join-our-team/
 
 <p><b>I’d like to invite you in for a discussion about becoming a member of our brokerage.</b></p>
 
-<p>My name is Kodi Riddle and I’ve been in the real estate business for the past 22 years. I’ve seen the ups and downs of the market, and I’ve navigated them successfully. My team has over five decades of experience, a database of over 18,000 agents, and we’re ranked in the top 1% of teams in the Valley.</p>
+<p>My name is Kodi Riddle and I’ve been in the real estate business for the past 23 years. I’ve seen the ups and downs of the market, and I’ve navigated them successfully. My team has over seven decades of experience, a database of over 20,000 Buyer & Sellers. We’re ranked #1 in our marketplace and in the top 1% of teams in the Greater Phoenix Area.</p>
 
 <p>I know how to build a successful business and I’m offering you the opportunity to learn from me. As someone who came to real estate after full-time mom duty for years, I also have a passion for helping women and mothers who are in a similar position find success. My technology helps agents get the most out of their businesses. If you’ve already found success, our systems and leverage can push you to an even higher level.</p>
 

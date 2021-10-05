@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+<br>
 <h1>Who Is Kodi?</h1>
 Kodi is a Wife, Mother, Real Estate Broker, Business Owner, and Entrepenuer.
 

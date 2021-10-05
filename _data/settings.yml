@@ -30,7 +30,7 @@ client:
   brand: The Riddle Group
   brokerage: eXp Realty
   market: Phoenix
-  address: '20860 N Tatu, Blvd Suite 300,<br> Phoenix AZ 85050'
+  address: '20860 N Tatum, Blvd Suite 300,<br> Phoenix AZ 85050'
   phone: 480-207-2645
   phone_type:
   phone2:
@@ -45,8 +45,8 @@ CTAS:
   cta2_link: /subscribe/
   cta3: Free Strategy Call
   cta3_link: /strategy-call/
-  cta4: Events
-  cta4_link: /
+  cta4: About Kodi
+  cta4_link: /about/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg

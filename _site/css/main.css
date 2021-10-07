@@ -1324,12 +1324,11 @@ html[xmlns] .flexslider .slides {
   color: #d80716;
   padding-top: 20px;
   padding-bottom: 33px;
-  font-size: 20px;
+  font-size: 15px;
   text-transform: uppercase;
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
   margin-bottom: 0px;
   transition: all 0.15s ease-out 0s; }
 
@@ -1337,7 +1336,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: #ffffff;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 16px;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1354,7 +1353,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: #ffffff;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 16px;
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
@@ -1390,6 +1389,12 @@ html[xmlns] .flexslider .slides {
   margin: 5px;
   padding: 10px; }
 
+@media (max-width: 1000px) {
+  .navbar-right {
+    display: none; } }
+@media (max-width: 888px) {
+  .nav-logo {
+    display: none; } }
 @media (max-width: 760px) {
   .nav-logo {
     display: none; }
@@ -1478,7 +1483,7 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 95px; }
 
 .site-logo {
   width: 90%;
@@ -1498,9 +1503,15 @@ label.tree-toggle {
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
+@media (max-width: 888px) {
+  #hero {
+    padding-top: 72px; } }
 @media (max-width: 760px) {
   #hero {
-    padding-top: 5.5rem; }
+    padding-top: 5.5rem;
+    width: 900px;
+    height: 500px;
+    float: center; }
 
   .site-logo {
     max-width: 20rem;
@@ -2556,7 +2567,7 @@ form select {
   background: rgba(0, 0, 0, 0);
   color: #ffffff;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 16px;
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;

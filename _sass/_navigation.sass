@@ -15,7 +15,6 @@
 	max-width: 65%
 
 .navbar-nav>li
-	margin-right: 10px
 	margin-bottom: 0px
 	@include transition
 
@@ -24,7 +23,7 @@
 	color: #ffffff
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
-	font-size: 2rem
+	font-size: 16px
 	font-weight: 300
 	// border: 2px solid $button-border
 	// @include transition(0.3s)
@@ -48,7 +47,7 @@
 	color: #ffffff
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
-	font-size: 2rem
+	font-size: 16px
 	font-weight: 300
 	&:hover
 		background: #eeeeee
@@ -87,6 +86,14 @@
 	max-width: 200px
 	margin: 5px
 	padding: 10px
+
+@media (max-width: 1000px)
+	.navbar-right
+		display: none
+
+@media (max-width: 888px)
+	.nav-logo
+		display: none
 
 @media (max-width: 760px)
 	.nav-logo

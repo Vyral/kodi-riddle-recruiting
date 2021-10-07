@@ -5,9 +5,26 @@
     <description>Our mission at Riddle Realty is to be your best resource for Phoenix real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Riddle Realty, your professional Phoenix Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Sep 2021 10:30:49 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Sep 2021 10:30:49 -0500</lastBuildDate>
+    <pubDate>Thu, 07 Oct 2021 14:34:47 -0500</pubDate>
+    <lastBuildDate>Thu, 07 Oct 2021 14:34:47 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Test Post</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswordswords&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; font-style:italic;&quot;&gt;This is a test post&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20http://localhost:4000/test-post.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Sep 2021 13:22:28 -0500</pubDate>
+        <link>http://localhost:4000/test-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test-post.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>

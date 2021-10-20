@@ -15,7 +15,7 @@ permalink: /strategy-call/
 
 <p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
 
-<a><img src="/img/agents.jpg" width="50%"></a>
+<a><img src="/img/agents.jpg" class="half-image"></a>
 <br><br>
 
 <p>I know how challenging it is to sell real estate.</p>
@@ -25,8 +25,8 @@ permalink: /strategy-call/
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
 <p>My name is Kodi Riddle and I’ve sold over one thousand homes to date.</p>
-  
-<a><img src="/img/team.jpg" width="70%"></a>
+
+<a><img src="/img/team.jpg" class="three-quarter-image"></a>
 <br><br>
 
 <p>I want to help you sell more homes.</p>
@@ -63,7 +63,7 @@ permalink: /strategy-call/
 
 <p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about joining our team.</p>
 
-<a><img src="/img/runningmeeting.jpg" width="50%"></a>
+<a><img src="/img/runningmeeting.jpg" class="half-image"></a>
 <br><br>
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
@@ -72,7 +72,7 @@ permalink: /strategy-call/
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
 
-<a><img src="/img/smiling.jpg" width="70%"></a>
+<a><img src="/img/smiling.jpg" class="three-quarter-image"></a>
 <br><br>
 
 <p>I have a <b>questionnaire</b> I would like you to fill out so that when we meet I'm prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
@@ -84,19 +84,5 @@ permalink: /strategy-call/
 <p>Kodi Riddle</p>
 
 
-<h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
-<h5 class="join-us-subtitle">Enter your contact information to schedule your time.</h5>
-
-<form method="post" class="home-value cta-forms" action="thankyou" id="strategy-call-form">
-					<fieldset>
-						<label for="name">Name*</label> <input type="text" required="" name="name" />
-						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
-						 <label for="email">Email*</label> <input type="text" name="email" required="" />
-						 <label for="company">Company </label> <input type="text" name="company" />
-						<label for="city">City </label> <input type="text" name="city" />
-						<label for="state">State </label> <input type="text" name="state" />
-						<label for="message">How May I Help You?* </label><textarea name="message" required=""></textarea>
-						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onStrategyCallSubmit' data-badge="bottomleft">Submit</button></fieldset>
-					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
-				</form>
+<div data-paperform-id="a5mjpah8"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
 </div>

@@ -52,9 +52,9 @@ permalink: /subscribe/
 <p><b>Here’s what a few agents say about our free training:</b></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G_PHr_0ChSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pVINFXPq36E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rswac1EYUbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>

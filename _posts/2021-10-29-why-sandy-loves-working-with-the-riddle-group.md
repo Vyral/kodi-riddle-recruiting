@@ -18,7 +18,7 @@ youtube_code: NYgEqLy2HVE
 
 {% include excerpt.html %}
 
-Today we’re talking to Sandy and asking her a few questions about her experience as a member of The Riddle Group.
+Today we're talking to Sandy, a real estate agent on our team, and asking her a few questions about her experience as a member of The Riddle Group:
 
 **What were you doing before real estate?**
 
@@ -30,6 +30,6 @@ My first year was amazing. I received all the support that I needed. I was a sol
 
 **Describe Kodi as a leader.**
 
-Kodi is just amazing. I could not ask for anyone better to be a mentor. She’s not only a leader, but she’s a mentor. She’s supportive, and she’s understanding that as we’re going through life, life happens. There’s nothing I can say about her that doesn’t bring a smile to my face. I know that I can go to her for anything and everything I need. I just couldn't ask for a better mentor.
+Kodi is just amazing. I could not ask for anyone better to be a mentor. She’s not only a leader; she’s a mentor. She’s supportive, and she understands that as we’re going through life, life happens. There’s nothing I can say about her that doesn’t bring a smile to my face. I know that I can go to her for anything and everything I need. I just couldn't ask for a better mentor.
 
-If you have any questions about today’s topic, call or email us. We are always here to help.
+If you have any questions for Sandy or about real estate, call or email us. We are always here to help.

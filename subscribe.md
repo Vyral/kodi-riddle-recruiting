@@ -3,6 +3,7 @@ layout: default
 title: Free Newsletter
 permalink: /subscribe/
 ---
+<br>
 <div class="whitespace"></div>
 <div class="recruiting-page">
 <div class="letterhead"><span id="letterhead">Free Real Estate Agent Training Newsletter</span>
@@ -48,7 +49,15 @@ permalink: /subscribe/
 
 <p>…I invite you to subscribe to our free newsletter below.</p>
 
-<!-- <p>Here’s what a few agents say about our free training:</p> -->
+<p><b>Here’s what a few agents say about our free training:</b></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_PHr_0ChSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pVINFXPq36E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rswac1EYUbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
 
 <p>You are also welcome to subscribe to our Agent Training Podcast on iTunes and we also publish our free training content on our agent training Facebook page if you prefer to stay touch that way, too.</p>
 

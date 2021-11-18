@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/kodi-riddle-ss-2021-yt.jpg
-youtube_code: NYgEqLy2HVE
+youtube_code: JDfJFDBoft8
 ---
 {% include youtube.html %}
 

@@ -4,7 +4,7 @@ title: Testimonials
 permalink: /testimonials/
 ---
 <br>
-<h2>Experieces</h2>
+<h2>Client Stories</h2><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JDfJFDBoft8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

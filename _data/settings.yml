@@ -47,6 +47,8 @@ CTAS:
   cta3_link: /strategy-call/
   cta4: About Kodi
   cta4_link: /about/
+  cta4: Stories
+  cta4_link: /tesimonials/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg

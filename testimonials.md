@@ -4,6 +4,34 @@ title: Testimonials
 permalink: /testimonials/
 ---
 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDfJFDBoft8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_PHr_0ChSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rZGf9p2vHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pVINFXPq36E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rswac1EYUbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYgEqLy2HVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5hxRLGn8PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <div id="zillow-lender-reputation-large-widget" style="background-color: white; border: 0px none; color: #999999; font: normal normal normal 10px &quot;verdana&quot; , &quot;arial&quot; , sans-serif; height: auto; letter-spacing: 0px; line-height: 13px; margin: 0 auto; overflow: hidden; padding: 0px; text-align: center; text-indent: 0px; text-transform: none; width: 500px;">
 <div style="background-color: #0074e4; border: 1px solid #0074e4; display: table-cell; height: 31px; overflow: hidden; text-align: center; vertical-align: middle; width: 500px;">
 <div style="color: white; font-size: 14px; font-weight: bold; margin: 5px;">
@@ -69,3 +97,4 @@ by <span id="reviewer">murphpd203</span></div>
 <a href="http://kodiriddle.blogspot.com/2016/07/how-we-brought-right-buyer-for-randy.html"><img src="https://imgur.com/cwV30hX.jpg" style="margin-right: 4px; width: 45%;" /></a>
 <a href="http://kodiriddle.blogspot.com/2016/05/how-we-impressed-pete-with-our.html"><img src="https://imgur.com/mfyqmF1.jpg" style="margin-right: 4px; width: 45%;" /></a>
 <a href="http://kodiriddle.blogspot.com/2016/04/how-we-sold-roy-and-nancy-home-while.html"><img alt="" src="https://imgur.com/YeIpxSk.jpg" style="margin-right: 4px; width: 45%;" /></a>
+-->

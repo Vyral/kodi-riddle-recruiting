@@ -28,10 +28,10 @@ Before I started working for Bill and Kodi, I hit a rough patch in my life. For 
 
 **What is it like working for Kodi Riddle?**&nbsp;
 
-There’s a great question. I've been with her for five years, it’s not about Kodi, it’s about what's best for the clients and for me to improve. It’s been fun. It’s challenging, it’s hard, but it’s really good. And that’s what I like. That’s what gets me up every morning to do the best I can every day for Kodi, Bill, and the team. I love the team atmosphere we have. It’s just a great place to be. It’s not an easy job, but it’s great.
+There’s a great question. I've been with her for five years, it’s not about Kodi, it’s about what's best for the clients and for me to improve; It’s been challenging, but it's also been fun and rewarding. That’s what gets me up every morning to do the best I can every day for Kodi, Bill, and the team. I love the team atmosphere we have. It’s just a great place to be. It’s not an easy job, but it’s great.
 
 **Describe Kodi as a leader:**
 
-Kodi as a leader is really amazing. She is driven, hard-working, and she wants the best for every team member and every client. She pushes very hard because that's what we should do. One of her favorite sayings is *“We do the right thing because it’s the right thing to do.”* In the end, that really does make a huge difference.
+Kodi as a leader is really amazing. She is driven, hard-working, and she wants the best for every team member and every client. She pushes very hard because that's what we should do. One of her favorite sayings is,&nbsp;*“We do the right thing because it’s the right thing to do.”* In the end, that really does make a huge difference.
 
 If you have any questions about what it’s like on our team, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.

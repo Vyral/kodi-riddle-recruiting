@@ -23,8 +23,8 @@ Here is what one of our employees, Amber, had to say about her experience workin
 
 *“The Riddle Group is an amazing team. The leadership is a caring, wonderful group of people that become family. Everyone here is always encouraging each other. It’s a really great place to work. “*
 
-**How would you describe Kodi, as a leader?**
+**How would you describe Kodi as a leader?**
 
-*“Kodi is a powerhouse. She is a role model to women. She inspires me and she pushes you to really work hard.”*
+*“Kodi is a powerhouse. She is a role model to women. She inspires me, and she pushes you to really work hard.”*
 
-If you have any questions or would like to hear about our open positions, don’t hesitate to reach out to us.
+If you have any questions or would like to hear about our open positions, don’t hesitate to reach out to us via phone or email. We are always willing to talk\!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Shelley Loves Working for The Riddle Group
+title: Why Shelley Loves Working for the Riddle Group
 date: 2021-12-14 00:00:00
 tags:
   - Real Estate
@@ -19,7 +19,7 @@ youtube_code: 3rZGf9p2vHw
 
 **What has your experience with The Riddle Group been like?**
 
-I have worked for other teams similar to this, but the big difference is our team lead, Kodi Riddle. She devotes so much time and attention to making sure we all succeed. That’s the key to success that I've seen in this group that I have not seen with others.
+I have worked for other teams similar to this, but the big difference is our team leader, Kodi Riddle. She devotes so much time and attention to making sure we all succeed. That’s the key to success I've seen in this group that I have not seen with others.
 
 **How is Kodi as a leader?&nbsp;**
 

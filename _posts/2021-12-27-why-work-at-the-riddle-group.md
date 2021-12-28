@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Work at the Riddle Group?
+title: Why Work at The Riddle Group?
 date: 2021-12-27 00:00:00
 tags:
   - Real Estate
@@ -19,15 +19,93 @@ youtube_code: pVINFXPq36E
 
 {% include excerpt.html %}
 
-Here is what one of our employees, Logan, had to say about his experience working at the Riddle Group:
+Here is what one of our employees, Logan, had to say about his experience working at The Riddle Group:
 
 **What were you doing before real estate?**
 
 *“Before real estate, I was in the bartending and service industry.”*
 
-**How do you feel about your first year in real estate being with the riddle group?**
+**How do you feel about your first year in real estate being with The Riddle G**
 
-*“One of my favorite things about the Riddle Group is the education I've received. It’s great to have people there that can educate you, get you through the process, and help get you started.”*
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**roup?**
+
+*“One of my favorite things about The Riddle Group is the education I've received. It’s great to have people there that can educate you, get you through the process, and help get you started.”*
 
 **How would you describe Kodi as a leader?**
 
